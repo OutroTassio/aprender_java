@@ -1,3 +1,4 @@
+package sintaxe;
 public class StringMultiLInas {
     public static void main(String[] args) {
         String multiLinas = """
