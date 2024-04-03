@@ -1,6 +1,6 @@
 package sintaxe;
 import java.util.Scanner;
-public class EntradaSaidaSimples {
+public class EntradaSaida {
     public static void main(String[] args) {
         System.out.println("Olá"); //mensagem inicial
         System.out.println("Digite um número inteiro: ");//Exibe mensagem
